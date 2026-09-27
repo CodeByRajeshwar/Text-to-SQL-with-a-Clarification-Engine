@@ -1,0 +1,12 @@
+pydantic>=2.7.0
+python-dotenv>=1.0.0
+
+# Groq Inc. (default provider -- fast open-model hosting, genuine free tier)
+groq>=0.11.0
+
+# Google Gemini (fallback provider -- also has a genuine free tier)
+google-genai>=1.10.0
+
+# Optional: only needed if you run api.py instead of / in addition to main.py
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0

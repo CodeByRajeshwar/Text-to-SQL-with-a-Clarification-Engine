@@ -251,7 +251,7 @@ PROTECTED (this project): 38/40 (95%) safe and correct
 | ambiguous_join_scope (4) | 0/4 | 3/4 |
 | legitimate_control (4) | 4/4 | 3/4 |
 
-Full per-case detail is in `eval/eval_results.md`.
+Full per-case detail is in `eval_results.md`.
 
 **Known findings from this run** (worth understanding, not hiding):
 
